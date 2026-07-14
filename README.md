@@ -1,5 +1,5 @@
-# Wry-pear
-We are all made of stars
+# Rotating-bonobo
+Don't you ever get tired of setting limits?
 
 ![buh](https://github.com/nicolasbaez/Rotating-bonobo/blob/main/xp072.gif)
 ```javascript
